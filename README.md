@@ -4,6 +4,10 @@ A small Windows app for running several Roblox clients at once, each signed in t
 
 It's a single Python file with no dependencies beyond the standard library.
 
+## Screenshot
+
+![Lots of Roblox main window](preview.png)
+
 ## Features
 
 - **Multi-instance** – open as many Roblox clients as you like without them closing each other
