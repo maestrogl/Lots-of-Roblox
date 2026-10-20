@@ -6,7 +6,7 @@ It's a single Python file with no dependencies beyond the standard library.
 
 ## Screenshot
 
-![Lots of Roblox main window](preview.png)
+![Lots of Roblox main window](preview.JPG)
 
 ## Features
 
